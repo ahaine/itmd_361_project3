@@ -146,9 +146,14 @@ body {
 	#main1 {
 	  float: left;
 	  width: 75%;
-	  font-size: 15px;
-	  outline: 2px solid blue;
-	  color: FF7F50;
+	  font-size: 5px;;
 	}
+	#extra1 {
+	  float: left;
+	  width: 75;
+	  font-size: 5px;
+	}
+	#
+}
 	
   

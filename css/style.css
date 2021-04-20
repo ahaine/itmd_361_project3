@@ -1,0 +1,144 @@
+#top-header {/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e4fcf5+0,bff9e9+50,9fefd7+51,2bedb9+100 */
+  background: #e4fcf5; /* Old browsers */
+  background: -moz-linear-gradient(top, #e4fcf5 0%, #bff9e9 50%, #9fefd7 51%, #2bedb9 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #e4fcf5 0%,#bff9e9 50%,#9fefd7 51%,#2bedb9 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #e4fcf5 0%,#bff9e9 50%,#9fefd7 51%,#2bedb9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e4fcf5', endColorstr='#2bedb9',GradientType=0 ); /* IE6-9 */
+  
+  height: 10em;
+}
+body {
+  background-color: gray;
+  padding: 0;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#wrapper {
+  width: 960px;
+  margin:  0 auto;
+  
+}
+#header1 {
+  padding: 15px;
+}
+
+#main1 {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #FF9933;
+  float: left;
+  width: 650px;
+  margin: 0 20px;
+  outline: 2px solid black;
+}
+
+#extra1 {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #FF9933;
+  float:left;
+  width: 250px;
+  margin: 0 20px 0 0;
+  outline: 2px solid black;
+}
+
+#footer1 {
+  clear: left;
+  padding: 15px;
+  background-color: teal;
+}
+  
+#main2 {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 400;
+  font-size: 1em;
+  color: #00FF66;
+  float: left;
+  width: 60%;
+  margin: 0 5%;
+  outline: 2px solid black;
+}
+#extra2 {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 400;
+  font-size: 1em;
+  color: #00FF66;
+  float: left;
+  width: 25%;
+  margin: 0 5% 0 0;
+  outline: 2px solid black;
+}
+#footer2 {
+  clear: left;
+  background-color:teal;
+  padding: 15px;
+}
+
+#main3 {
+  font-family: serif;
+  font-weight: 400;
+  font-size: 1.5em;
+  color:#663300;
+  float: left;
+  width: 85%;
+  margin: 0 5%;
+  outline: 2px solid black;
+}
+#footer3 {
+  clear: left;
+  background-color:teal;
+  padding: 15px; 
+}
+  
+  
+#top-header-container {
+  position: relative;
+  top: 2.5em;
+  font-size: 2em;
+}
+#navbar1 {
+  background-color: teal;
+  overflow: hidden;
+}
+#navbar1-container {
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+#navbar1 ul {
+  position: relative;
+  float: left;
+  left: 50%;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+#navbar1 ul li {
+  display: block;
+  position: relative;
+  float: left;
+  right: 50%;
+}
+#navbar1 ul li a {
+  display: block;
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #00FFFF
+}
+#navbar1 ul li a:hover {
+  background-color: #000;
+  
+}
+#navbar1 #underline {
+  text-decoration: underline;
+}
+.liststyle1 {
+  list-style-type: none
+}

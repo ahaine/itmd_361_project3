@@ -1,2 +1,2 @@
-# itmd_361_project3
- this is my repository for project3
+# itm-361-project1
+ This repository is for ITM-361 Project1

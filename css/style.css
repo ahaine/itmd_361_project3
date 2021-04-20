@@ -142,3 +142,8 @@ body {
 .liststyle1 {
   list-style-type: none
 }
+@media screens and (min-width: 800px) {
+	#main1 {
+	  float: left;
+	  width: 75%;
+  

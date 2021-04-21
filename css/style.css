@@ -155,7 +155,6 @@ body {
 	}
 	#footer1 {
 	  float: left;
-	  width: 90%;
 	  background-color:silver;
 	}
 	#header1 {
@@ -175,7 +174,6 @@ body {
 	  font-size: 25px;
 	}
 	#footer1 {
-	  width: 50%;
 	  background-color: white;
 	}
 	#header1 {

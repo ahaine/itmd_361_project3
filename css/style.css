@@ -142,7 +142,7 @@ body {
 .liststyle1 {
   list-style-type: none
 }
-@media screens and (min-width: 300px) {
+@media screen and (min-width: 300px) {
 	#main1 {
 	  float: left;
 	  width: 75%;
@@ -165,7 +165,7 @@ body {
 	  width: 75%;
 	  float: center;
 	}
-@media screens and (min-width: 800 px) {
+@media screen and (min-width: 800 px) {
 	#main1 {
 		width: 50%;
 		font-size: 10px;

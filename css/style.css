@@ -168,11 +168,11 @@ body {
 @media screen and (min-width: 800px){
 	#main1 {
 	  width: 50%;
-	  font-size: 10px;
+	  font-size: 25px;
 	}
 	#extra1 {
 	  width: 50%;
-	  font-size: 10px;
+	  font-size: 25px;
 	}
 	#footer1 {
 	  width: 50%;

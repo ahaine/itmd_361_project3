@@ -167,8 +167,8 @@ body {
 	}
 @media screen and (min-width: 800px){
 	#main1 {
-		width: 50%;
-		font-size: 10px;
+	  width: 50%;
+	  font-size: 10px;
 	}
 	#extra1 {
 	  width: 50%;

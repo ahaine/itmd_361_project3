@@ -159,13 +159,13 @@ body {
 	}
 	#footer1 {
 	  font-size: 15px;
-	  padding: 20px 20px 20px 20px;
+	  padding: 10px 10px 10px 10px;
 	}
 }
 @media screen and (min-width: 900px) {
 	img {
 	  width: 85%;
-	  padding: 10px 10px 10px 10px;
+	  padding: 20px 20px 20px 20px;
 	}
 	iframe {
 	  width: 85;

@@ -142,45 +142,43 @@ body {
 .liststyle1 {
   list-style-type: none
 }
-@media screen and (min-width: 800px){
-	#main1 {
-	  float: left;
+@media screen and (min-width: 400px){
+	img {
 	  width: 75%;
-	  font-size: 5px;
+	  padding: 30px;
+	}
+	iframe {
+	  width: 75%;
+	  padding: 30px;
+	}
+	#main1 {
+	  font-size: 15px;
 	}
 	#extra1 {
-	  float: left;
-	  width: 75%;
-	  font-size: 5px;
+	  font-size: 15px;
 	}
 	#footer1 {
-	  float: left;
-	  background-color:silver;
-	}
-	#header1 {
-	  padding:20px;
-	}
-	#navbar1-container {
-	  width: 75%;
-	  float: left;
+	  font-size: 15px;
+	  padding: 20px 20px 20px 20px;
 	}
 }
-@media screen and (min-width: 400px){
+@media screen and (min-width: 900px) {
+	img {
+	  width: 85%;
+	  padding: 30px;
+	}
+	iframe {
+	  width: 85;
+	  padding: 30px;
+	}
 	#main1 {
-	  width: 50%;
-	  font-size: 25px;
+	  font-size: 18px;
 	}
 	#extra1 {
-	  width: 50%;
-	  font-size: 25px;
+	  font-size: 18px;
 	}
 	#footer1 {
-	  background-color: white;
-	}
-	#header1 {
-	  padding: 10px;
-	}
-	#navbar1-container {
-	  width: 50%;
+	  font-size: 18px;
+	  padding: 20px 20px 20px 20px;
 	}
 }

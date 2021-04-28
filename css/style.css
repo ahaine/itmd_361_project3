@@ -145,7 +145,7 @@ body {
 @media screen and (min-width: 400px){
 	img {
 	  width: 75%;
-	  padding: 20px 20px 20px 20px;
+	  padding: 10px 10px 10px 10px;
 	}
 	iframe {
 	  width: 75%;

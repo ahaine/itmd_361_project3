@@ -165,11 +165,11 @@ body {
 @media screen and (min-width: 900px) {
 	img {
 	  width: 85%;
-	  padding: 30px;
+	  padding: 25px;
 	}
 	iframe {
 	  width: 85;
-	  padding: 30px;
+	  padding: 25px;
 	}
 	#main1 {
 	  font-size: 18px;

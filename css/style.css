@@ -145,11 +145,11 @@ body {
 @media screen and (min-width: 400px){
 	img {
 	  width: 75%;
-	  padding: 10px 10px 10px 10px;
+	  padding: 10px;
 	}
 	iframe {
 	  width: 75%;
-	  padding: 30px;
+	  padding: 10px;
 	}
 	#main1 {
 	  font-size: 15px;
@@ -165,7 +165,7 @@ body {
 @media screen and (min-width: 900px) {
 	img {
 	  width: 85%;
-	  padding: 30px 30px 30px 30px;
+	  padding: 25;
 	}
 	iframe {
 	  width: 85;
@@ -179,6 +179,6 @@ body {
 	}
 	#footer1 {
 	  font-size: 18px;
-	  padding: 30px 30px 30px 30px;
+	  padding: 25px 25px 25px 25px;
 	}
 }

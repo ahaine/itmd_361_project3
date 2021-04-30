@@ -35,7 +35,7 @@ function initMap(){
     	infowindow.open(myMap, marker);
   	});
 	
-	var locationStringTwo = '<h1>Dairy Korner</h1><p>This is a local hot spot known to St. Joseph locals. Dairy Korner is a grill and ice cream joint.  This place gets packed during the summer because who doesnt love ice cream on a hot summer day.  Fun fact: Dairy Korner was first established in the 50</p>'
+	var locationStringTwo = '<h1>Dairy Korner</h1><p>This is a local hot spot known to St. Joseph locals. Dairy Korner is a grill and ice cream joint.  This place gets packed during the summer because who doesnt love ice cream on a hot summer day.  Fun fact: Dairy Korner was first established in the 50s</p>'
 	
 	var infowindow2 = new google.maps.InfoWindow({
 		content: locationStringTwo

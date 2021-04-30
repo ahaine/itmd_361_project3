@@ -3,7 +3,7 @@ function initMap(){
 	var myLocation = new google.maps.LatLng(42.089711, -86.491190);
 	var mapOptions = {
 			center: myLocation,
-			zoom: 15,
+			zoom: 14.75,
 			mapTypeId: google.maps.MapTypeId.roadmap,
 			mapTypeControlOptions: {
 				position: google.maps.ControlPosition.BOTTOM_CENTER

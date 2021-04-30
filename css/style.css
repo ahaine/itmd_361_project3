@@ -184,10 +184,10 @@ body {
 }
 	#wrapper1 {
 	  width: 740px;
-	  height: 600px;
+	  height: 550px;
 	  background-color: #00FFFF;
 	  margin:0 auto;
-	  overflow: hidden;
+	  overflow: hidden
 	}
 	#canvas {
 	  width: 700px;

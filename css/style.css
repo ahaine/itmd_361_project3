@@ -191,16 +191,19 @@ body {
 	  padding: 25px 25px 25px 25px;
 	}
 }
-	#wrapper1 {
-	  width: 740px;
-	  height: 550px;
-	  background-color: #00FFFF;
-	  margin:0 auto;
-	  overflow: hidden
-	}
-	#canvas {
-	  width: 700px;
-	  height: 600px;
-	  background-color: #ccc;
-	  margin: 30px auto;
-	}
+#wrapper1 {
+  width: 740px;
+  height: 550px;
+  background-color: #00FFFF;
+  margin:0 auto;
+  overflow: hidden
+}
+#canvas {
+  width: 700px;
+  height: 600px;
+  background-color: #ccc;
+  margin: 30px auto;
+}
+#sColor {
+  background-color: gray;
+}
